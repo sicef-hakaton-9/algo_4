@@ -4,14 +4,14 @@
 
 Aplikacija nastala na devetom [SICEF Hakatonu](https://hakaton.sicef.info/), 24-časovnom takmičenju u programiranju održanom od 3. do 5. novembra 2023. godine na Elektronskom fakultetu u Nišu.
 
-<!-- Učesnici su imali zadatak da naprave **aplikaciju koja će ...** [organizator će naknadno dodati ovu liniju dokumenta nakon određenja teme] -->
+Učesnici su imali zadatak da naprave **aplikaciju na temu „softverska podrška pametnim gradovima”**.
 
 ## Članovi tima
 
 - [Milan Balabanović](https://github.com/M1K1B)
-- Marko Vasić
+- [Marko Vasić](https://github.com/MarkoVasic02)
 - Nikola Kuzmić
-- Bogdan Marković
+- [Bogdan Marković](https://github.com/Gibo2706)
 
 ## Opis aplikacije
 
