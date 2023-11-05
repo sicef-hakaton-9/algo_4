@@ -6,6 +6,10 @@ Aplikacija nastala na devetom [SICEF Hakatonu](https://hakaton.sicef.info/), 24-
 
 Učesnici su imali zadatak da naprave **aplikaciju na temu „softverska podrška pametnim gradovima”**.
 
+## Prezentacija
+
+Link: [CityWatch Prezentacija](https://www.figma.com/file/47ktQNN5FlOEcBgn0I3typ/CityWatch-Presentation?type=design&node-id=40%3A2981&mode=design&t=3kywiwmdc7xKgB6G-1)
+
 ## Članovi tima
 
 - [Milan Balabanović](https://github.com/M1K1B)
