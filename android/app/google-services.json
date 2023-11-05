@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243652744789",
+    "project_id": "citywatch-algo4-hakaton",
+    "storage_bucket": "citywatch-algo4-hakaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243652744789:android:17d94a82466b48f40e66dc",
+        "android_client_info": {
+          "package_name": "com.algo4.sicef"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqIXHYyHscTMAXjRW-VQLOGPQ9qKjbHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243652744789:android:7fbdcc93f2f726b20e66dc",
+        "android_client_info": {
+          "package_name": "com.example.sicef_hakaton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNqIXHYyHscTMAXjRW-VQLOGPQ9qKjbHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

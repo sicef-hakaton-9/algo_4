@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">243652744789</string>
+    <string name="google_api_key" translatable="false">AIzaSyCNqIXHYyHscTMAXjRW-VQLOGPQ9qKjbHk</string>
+    <string name="google_app_id" translatable="false">1:243652744789:android:17d94a82466b48f40e66dc</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCNqIXHYyHscTMAXjRW-VQLOGPQ9qKjbHk</string>
+    <string name="google_storage_bucket" translatable="false">citywatch-algo4-hakaton.appspot.com</string>
+    <string name="project_id" translatable="false">citywatch-algo4-hakaton</string>
+</resources>
